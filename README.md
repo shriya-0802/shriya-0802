@@ -10,6 +10,13 @@
 # 📊 GitHub Stats:
 
 
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shriya-0802&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shriya-0802&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shriya-0802&layout=compact&theme=tokyonight)
+
+
 
 
 
