@@ -1,6 +1,17 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>Building scalable, AI-powered and cloud-native applications<br>👯 I’m looking to collaborate on<br>Projects involving AI/LLMs, full-stack development, or cloud systems, especially anything related to real-time data processing, developer tools, or intelligent automation platforms.<br>🌱 I’m currently learning<br>Advanced LLM architectures (RAG, LangChain pipelines), cloud infrastructure (AWS ECS, Docker), and microservices-based backend systems.<br>💬 Ask me about<br>Full-stack development (React, Next.js, Node.js), building dashboards with Power BI, AI/ML projects, or how to design and deploy real-time, data-driven applications.<br>⚡ Fun fact<br>I blend tech with creativity, I’m not just into building systems, but also enjoy public speaking, debating, and singing, which helps me communicate ideas effectively.
 
+# 📄 Resume
+
+<p align="center">
+  <a href="./FINAL_YEAR_RESUME_SHRIYA_SWE.pdf">
+    <img src="https://img.shields.io/badge/View%20Resume-0A66C2?style=for-the-badge&logo=readme&logoColor=white" />
+  </a>
+  <a href="./FINAL_YEAR_RESUME_SHRIYA_SWE.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shriya__niki08?igsh=MThxN2ZwOW9iaTFhbQ%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shriya-mohanty-513502278) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/u/shriya_0802/s/TnV5p0ie1p) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/shriyamohanty08?s=21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shriya.mohanty2004@gmail.com) 
