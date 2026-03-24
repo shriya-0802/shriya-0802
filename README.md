@@ -31,10 +31,9 @@
 # 🔝 Profile Views & Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shriya-0802&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shriya-0802&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/shriya-0802?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/following/shriya-0802?label=Following&style=for-the-badge" />
 </p>
