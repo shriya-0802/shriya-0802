@@ -28,21 +28,13 @@
 
 ---
 
+# 🔝 Profile Views & Stats
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shriya-0802&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-
-
-
-
-
-
-
-
-
-
-🔝 Profile Views
-
----
-[![](https://visitcount.itsvg.in/api?id=shriya-0802&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/shriya-0802?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/following/shriya-0802?label=Following&style=for-the-badge" />
+</p>
