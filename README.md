@@ -4,11 +4,11 @@
 # 📄 Resume
 
 <p align="center">
-  <a href="./FINAL_YEAR_RESUME_SHRIYA_SWE.pdf">
-    <img src="https://img.shields.io/badge/View%20Resume-0A66C2?style=for-the-badge&logo=readme&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1hlxQFL9fRyr5UlHKHmh3GABj2ZisUHwq/view" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-0A66C2?style=for-the-badge&logo=readme&logoColor=white"/>
   </a>
-  <a href="./FINAL_YEAR_RESUME_SHRIYA_SWE.pdf" download>
-    <img src="https://img.shields.io/badge/Download%20Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  <a href="https://drive.google.com/uc?export=download&id=1hlxQFL9fRyr5UlHKHmh3GABj2ZisUHwq">
+    <img src="https://img.shields.io/badge/Download%20Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
 
@@ -28,9 +28,7 @@
 
 ---
 
-# 🔝 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=shriya-0802&label=Profile%20views&color=0e75b6&style=flat" />
 
 
 
